@@ -1,0 +1,23 @@
+<https://www.facebook.com/tagar.77.tagar/>
+        <http://www.w3.org/2001/vcard-rdf/3.0#email>
+                "stefan@tagarski.com";
+        <http://www.w3.org/2001/vcard-rdf/3.0#family-name>
+                "Tagarski";
+        <http://www.w3.org/2001/vcard-rdf/3.0#fn>
+                "Stefan Tagarski";
+        <http://www.w3.org/2001/vcard-rdf/3.0#given-name>
+                "Stefan";
+        <http://www.w3.org/2001/vcard-rdf/3.0#nickname>
+                "tagar";
+        <http://xmlns.com/foaf/0.1/age>
+                "22";
+        <http://xmlns.com/foaf/0.1/gender>
+                "male";
+        <http://xmlns.com/foaf/0.1/knows>
+                <https://www.linkedin.com/in/david-hristov-0985a4176/>;
+        <http://xmlns.com/foaf/0.1/name>
+                "Stefan" .
+
+<https://www.linkedin.com/in/david-hristov-0985a4176/>
+        <http://xmlns.com/foaf/0.1/name>
+                "David Hristov" .
